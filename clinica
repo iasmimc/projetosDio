@@ -1,0 +1,74 @@
+Desenvolva um site de uma clínica médica, onde você será responsável pela especialidade apresentada. Utilize todo conteúdo abordado no módulo para a implementação de elementos fundamentais de uma página, seguindo as instruções, você será capaz de realizar o desafio proposto.
+
+
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>Clínica Médica Dio</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Clínica Médica Dio</h1>
+        <nav>
+            <ul>
+                <li><a href="#especialidades">Especialidades</a></li>
+                <li><a href="#equipe">Equipe</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="especialidades">
+            <h2>Especialidades</h2>
+            <form>
+                <label for="search">Buscar Especialidade:</label>
+                <input type="search" id="search" name="search"><br>
+                <select name="especialidades">
+                    <option value="oftalmologista">Oftalmologista</option>
+                    <option value="dermatologista">Dermatologista</option>
+                    <option value="relmatologista">Relmatologista</option>
+                    <option value="psiquiatra">Psiquiatra</option>
+                    <option value="ginicologista">Ginicologista</option>
+                    <option value="otorrino">Otorrino</option>
+                    <option value="urologista">Urologista</option>
+                </select>
+            </form>
+            <p>Aqui na Clínica Médica, oferecemos uma variedade de especialidades...</p>
+        </section>
+        <section id="equipe">
+            <h2>Nossa Equipe</h2>
+            <table>
+                <tr>
+                    <th>Nome</th>
+                    <th>Especialidade</th>
+                </tr>
+                <tr>
+                    <td>Dr. João</td>
+                    <td>Oftalmologista</td>
+                </tr>
+                <tr>
+                    <td>Dra. Maria</td>
+                    <td>Dermatologista</td>
+                </tr>
+               
+            </table>
+            <p>Conheça nossa equipe de profissionais altamente qualificados...</p>
+        </section>
+        <section id="contato">
+            <h2>Contato</h2>
+            <form>
+                <label for="nome">Nome:</label><br>
+                <input type="text" id="nome" name="nome"><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email"><br>
+                <input type="submit" value="Enviar">
+            </form>
+            <p>Entre em contato conosco...</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Clínica Médica. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html> -->
+
