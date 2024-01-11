@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.artigo {
+    width: 60%;
+    margin: auto;
+}
+h1, h2 {
+    color: #5a5a5a;
+}
+a {
+    color: #0645ad;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+mark {
+    background-color: yellow;
+    color: black;
+}
+details {
+    margin: 1em 0;
+}
+summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+progress {
+    width: 100%;
+    height: 20px;
+}
